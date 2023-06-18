@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Vishal 😀</h1>
+<h4 align="center">I'm a Data Scientist and AI Enthusiast</h4>
+
+### I have technical experience and interest in:
+* Deep Learning
+* Machine Learning
+* Natural Language Processing 
+* Data Analytics
+* Data Engineering and MLOps
 
 <!--
 **Vishal0199/Vishal0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
