@@ -3,11 +3,16 @@
 <h4 align="center">I'm a Data Scientist and AI Enthusiast</h4>
 
 ### I have technical experience and interest in:
-* Deep Learning
 * Machine Learning
-* Natural Language Processing 
+* Deep Learning
+* Natural Language Processing
+* Generative AI
+* Large Language Models
+* MLOps
 * Data Analytics
-* Data Engineering and MLOps
+* Power BI
+* Data Engineering
+* AWS and Azure
 
 <!--
 **Vishal0199/Vishal0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
