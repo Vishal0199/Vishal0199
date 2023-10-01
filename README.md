@@ -4,13 +4,10 @@
 
 
 ### I have technical experience and interest in:
-* Machine Learning
-* Deep Learning
+* Machine Learning/ Deep Learning
 * Natural Language Processing
 * Generative AI
-* Large Language Models
 * MLOps
-* Data Analytics
 * Power BI
 * Data Engineering
 * AWS and Azure
